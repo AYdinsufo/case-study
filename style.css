@@ -1,0 +1,56 @@
+#backpack{
+background-color: gray;
+color: white;
+border: 15px solid gray;
+border-radius: 15px;
+box-shadow: 7.5px 7.5px 5px black;
+margin-bottom: 35px;
+}
+#flower{
+    background-color: gray;
+    color: white;
+    border: 15px solid gray;
+    border-radius: 15px;
+    box-shadow: 7.5px 7.5px 5px black;
+    margin-bottom: 35px;
+    }
+    #laptop{
+        background-color: gray;
+        color: white;
+        border: 15px solid gray;
+        border-radius: 15px;
+        box-shadow: 7.5px 7.5px 5px black;
+        margin-bottom: 35px;
+        }
+    #telescope{
+        background-color: gray;
+        color: white;
+        border: 15px solid gray;
+        border-radius: 15px;
+        box-shadow: 7.5px 7.5px 5px black;
+        margin-bottom: 35px;
+        }
+        #paper{
+            background-color: gray;
+            color: white;
+            border: 15px solid gray;
+            border-radius: 15px;
+            box-shadow: 7.5px 7.5px 5px black;
+            margin-bottom: 35px;
+            }
+            #trash{
+                background-color: gray;
+                color: white;
+                border: 15px solid gray;
+                border-radius: 15px;
+                box-shadow: 7.5px 7.5px 5px black;
+                margin-bottom: 35px;
+                }
+                #pillow{
+                    background-color: gray;
+                    color: white;
+                    border: 15px solid gray;
+                    border-radius: 15px;
+                    box-shadow: 7.5px 7.5px 5px black;
+                    margin-bottom: 35px;
+                    }
